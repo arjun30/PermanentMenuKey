@@ -6,5 +6,5 @@ Native Android Titanium module to detect Soft Navigation keys in device.
 Simply add the following lines to your `tiapp.xml` file:
     
     <modules>
-        <module platform="android">ti.android.sms</module>
+        <module platform="android">com.arjun.navigationkey</module>
     </modules>
