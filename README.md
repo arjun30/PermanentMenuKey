@@ -1,2 +1,2 @@
 # SoftNavigationKey
-Native Android Titanium module to detect Hardware Menu button in device.
+Native Android Titanium module to detect Hardware Navigation keys in device.
